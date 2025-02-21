@@ -23,7 +23,7 @@ pip install pandas numpy matplotlib seaborn requests tqdm trendspy openpyxl pyth
 Run the Script:
 
 ```sh
-python main.py
+python neon-films.py
 ```
 
 
