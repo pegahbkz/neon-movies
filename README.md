@@ -1,7 +1,7 @@
 # Neon Films
-Analysing audience preferences for movies
-
-## Table of Contents
+This project uses OMDB API and Google Trends to gather movie data in order to uncover
+insights into audience preferences. Data Collection is later automated to track movie
+performance over time.
 
 ## Installation
 
