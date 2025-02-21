@@ -1,5 +1,6 @@
-# Project Title
-Neon Films Audience Movie Preference Analysis
+# Neon Films
+Analysing audience preferences for movies
+
 ## Table of Contents
 
 ## Installation
