@@ -8,8 +8,8 @@ Analysing audience preferences for movies
 Clone the repository:
 
 ```sh
-git clone https://github.com/yourusername/movie-data-automation.git
-cd movie-data-automation
+git clone https://github.com/pegahbkz/neon-movies.git
+cd neon-movies
 ```
 
 ## Install Dependencies:
